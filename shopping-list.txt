@@ -1,2 +1,3 @@
 bread	3.50
 eggs	5.00
+butter	4.00
